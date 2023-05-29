@@ -1,0 +1,1 @@
+pip install --target=.venv\Lib\site-packages browser_cookie3 -i https://pypi.doubanio.com/simple --upgrade

@@ -1,0 +1,30 @@
+[2023-05-15 00:01:48] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-05-15 00:02:01] [WARNING]: 检查更新失败: Get "https://api.github.com/repos/Mrs4s/go-cqhttp/releases/latest": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2023-05-15 00:07:06] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-05-15 00:07:20] [WARNING]: 检查更新失败: Get "https://api.github.com/repos/Mrs4s/go-cqhttp/releases/latest": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2023-05-15 00:08:14] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-05-15 00:08:27] [WARNING]: 检查更新失败: Get "https://api.github.com/repos/Mrs4s/go-cqhttp/releases/latest": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2023-05-15 00:10:43] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-05-15 00:10:57] [WARNING]: 检查更新失败: Get "https://api.github.com/repos/Mrs4s/go-cqhttp/releases/latest": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2023-05-15 00:11:49] [WARNING]: 获取消息时出现错误: get value error: leveldb: not found 
+[2023-05-15 00:16:54] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-05-15 00:17:08] [WARNING]: 检查更新失败: Get "https://api.github.com/repos/Mrs4s/go-cqhttp/releases/latest": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2023-05-15 00:17:11] [WARNING]: 警告: 长消息响应延迟为 2418ms, 大于 1000ms, 可能导致无法接收/发送长消息的情况, 请检查本地网络状态. 
+[2023-05-15 00:40:32] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1000 (normal) 
+[2023-05-15 00:40:33] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-05-15 00:40:36] [ERROR]: 无法响应API调用(连接已断开?): websocket: close sent 
+[2023-05-15 00:40:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:14123/onebot/v11/ws 时出现错误: websocket: bad handshake 
+[2023-05-15 01:46:35] [WARNING]: 转换消息 [CQ:image,subType=0,file=4dbb236f78de3f41d544cfd0a2711e33.image,url=https://gchat.qpic.cn/gchatpic_new/2435964711/543562275-2890967496-4DBB236F78DE3F41D544CFD0A2711E33/0?term=2&amp;is_origin=0] 到MiraiGo Element时出现错误: Get "https://gchat.qpic.cn/gchatpic_new/2435964711/543562275-2890967496-4DBB236F78DE3F41D544CFD0A2711E33/0?term=2&is_origin=0": context deadline exceeded (Client.Timeout exceeded while awaiting headers). 
+[2023-05-15 12:38:23] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.40.153:54410->43.154.240.13:8080: wsarecv: An established connection was aborted by the software in your host machine. 
+[2023-05-15 12:38:23] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 36.155.206.174:8080: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-15 12:38:23] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 36.155.206.174:8080: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-15 12:38:23] [WARNING]: Bot已离线: connection dropped by server. 
+[2023-05-15 12:38:26] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-05-15 12:38:29] [WARNING]: 尝试重连... 
+[2023-05-15 12:38:30] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-05-15 13:34:59] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-05-15 13:35:18] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.40.153:61097->43.154.240.13:8080: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2023-05-15 13:35:29] [WARNING]: 恢复会话失败: register error: Packet timed out , 尝试使用正常流程登录. 
+[2023-05-15 13:36:47] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-05-15 13:36:48] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10004 
+[2023-05-15 13:36:51] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10004 

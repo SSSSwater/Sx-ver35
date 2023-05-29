@@ -1,0 +1,28 @@
+error     |2023-04-21_00:04:16      |'NoneType' object is not subscriptable,获取已储存的token失败
+-------------------------
+error     |2023-04-21_00:06:42      |'NoneType' object is not subscriptable,获取已储存的token失败
+-------------------------
+warning   |2023-05-04_14:56:41      |'真理孑然',无效token
+-------------------------
+warning   |2023-05-04_14:56:41      |pool真理孑然, 未知卡池真理孑然
+-------------------------
+error     |2023-05-08_20:10:07      |'NoneType' object is not subscriptable,获取已储存的token失败
+-------------------------
+error     |2023-05-08_20:12:56      |'status',无效token
+-------------------------
+error     |2023-05-08_20:14:24      |'NoneType' object is not subscriptable,获取已储存的token失败
+-------------------------
+error     |2023-05-08_20:15:13      |'NoneType' object is not subscriptable,获取已储存的token失败
+-------------------------
+error     |2023-05-08_20:17:30      |'status',无效token
+-------------------------
+error     |2023-05-08_20:18:05      |'status',无效token
+-------------------------
+error     |2023-05-08_20:25:05      |'NoneType' object is not subscriptable,获取已储存的token失败
+-------------------------
+error     |2023-05-08_20:29:14      |'NoneType' object is not subscriptable,获取已储存的token失败
+-------------------------
+error     |2023-05-08_20:30:47      |'NoneType' object is not subscriptable,获取已储存的token失败
+-------------------------
+error     |2023-05-08_20:32:30      |'status',无效token
+-------------------------

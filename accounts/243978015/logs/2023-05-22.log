@@ -1,0 +1,96 @@
+[2023-05-22 00:25:22] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.234.153:63092->36.155.201.156:8080: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2023-05-22 00:25:25] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 120.241.130.216:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 00:25:25] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 120.241.130.216:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 00:25:25] [WARNING]: Bot已离线: connection dropped by server. 
+[2023-05-22 00:25:28] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-05-22 00:25:31] [WARNING]: 尝试重连... 
+[2023-05-22 00:25:31] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 36.155.213.231:443: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 00:25:31] [WARNING]: 快速重连失败: dial tcp error: dial tcp 36.155.213.231:443: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 00:25:31] [FATAL]: 快速重连失败, 扫码登录无法恢复会话. 
+[2023-05-22 00:25:34] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 00:25:34] [WARNING]: 恢复会话失败: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. , 尝试使用正常流程登录. 
+[2023-05-22 00:25:35] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 00:25:35] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 00:25:38] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-05-22 00:25:38] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 00:25:38] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 00:25:41] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-05-22 00:25:41] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 00:25:41] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 00:25:44] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-05-22 00:25:44] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 00:25:44] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 00:25:48] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-05-22 00:25:48] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 00:25:48] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 00:25:51] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-05-22 00:25:51] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 00:25:51] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 00:25:54] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-05-22 00:25:54] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 00:25:54] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 00:25:57] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-05-22 00:25:57] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 00:25:57] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 00:26:00] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-05-22 00:26:00] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 00:26:00] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 00:26:03] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-05-22 00:26:03] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 00:26:03] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 00:26:06] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-05-22 00:26:06] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 00:26:06] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 00:26:09] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-05-22 00:26:09] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 00:26:09] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 00:26:13] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-05-22 00:26:13] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 00:26:13] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 00:26:16] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-05-22 00:26:16] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 00:26:16] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 00:26:19] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-05-22 00:28:21] [FATAL]: 二维码过期 
+[2023-05-22 00:28:25] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-05-22 00:28:30] [FATAL]: 登录时发生致命错误: fetch qrcode error: missing payload length 
+[2023-05-22 00:28:34] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-05-22 00:30:35] [FATAL]: 二维码过期 
+[2023-05-22 00:30:38] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-05-22 22:48:19] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-05-22 22:50:22] [FATAL]: 二维码过期 
+[2023-05-22 22:50:25] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-05-22 22:50:54] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-05-22 22:57:44] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-05-22 23:01:05] [ERROR]: Protocol -> unexpected disconnect: read tcp 10.170.37.46:56749->36.155.213.147:8080: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2023-05-22 23:01:11] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 36.155.208.73:8080: connectex: An established connection was aborted by the software in your host machine. 
+[2023-05-22 23:01:11] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 36.155.208.73:8080: connectex: An established connection was aborted by the software in your host machine. 
+[2023-05-22 23:01:11] [WARNING]: Bot已离线: connection dropped by server. 
+[2023-05-22 23:01:14] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-05-22 23:01:17] [WARNING]: 尝试重连... 
+[2023-05-22 23:01:37] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 36.155.163.25:14000: connectex: An established connection was aborted by the software in your host machine. 
+[2023-05-22 23:01:37] [WARNING]: 快速重连失败: dial tcp error: dial tcp 36.155.163.25:14000: connectex: An established connection was aborted by the software in your host machine. 
+[2023-05-22 23:01:37] [FATAL]: 快速重连失败, 扫码登录无法恢复会话. 
+[2023-05-22 23:01:41] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-05-22 23:02:00] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.234.153:57408->36.155.208.73:8080: wsarecv: An established connection was aborted by the software in your host machine. 
+[2023-05-22 23:02:00] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 111.31.205.197:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 23:02:00] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 111.31.205.197:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 23:02:00] [WARNING]: Bot已离线: connection dropped by server. 
+[2023-05-22 23:02:03] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-05-22 23:02:06] [WARNING]: 尝试重连... 
+[2023-05-22 23:02:06] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-05-22 23:03:32] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.234.153:57976->120.232.31.164:14000: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2023-05-22 23:03:32] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 36.155.187.71:443: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 23:03:32] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 36.155.187.71:443: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 23:03:32] [WARNING]: Bot已离线: connection dropped by server. 
+[2023-05-22 23:03:35] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-05-22 23:03:38] [WARNING]: 尝试重连... 
+[2023-05-22 23:03:38] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 111.31.205.248:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 23:03:38] [WARNING]: 快速重连失败: dial tcp error: dial tcp 111.31.205.248:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 23:03:38] [FATAL]: 快速重连失败, 扫码登录无法恢复会话. 
+[2023-05-22 23:03:41] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 23:03:41] [WARNING]: 恢复会话失败: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. , 尝试使用正常流程登录. 
+[2023-05-22 23:03:42] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 23:03:42] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2023-05-22 23:03:45] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-05-22 23:04:48] [WARNING]: Protocol -> device lock is disable. http api may fail. 

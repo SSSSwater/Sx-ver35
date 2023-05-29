@@ -1,0 +1,52 @@
+[2023-05-21 01:12:59] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-05-21 01:13:12] [WARNING]: 检查更新失败: Get "https://api.github.com/repos/Mrs4s/go-cqhttp/releases/latest": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2023-05-21 01:15:17] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-05-21 01:15:30] [WARNING]: 检查更新失败: Get "https://api.github.com/repos/Mrs4s/go-cqhttp/releases/latest": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2023-05-21 01:36:15] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-05-21 01:36:27] [WARNING]: 检查更新失败: Get "https://api.github.com/repos/Mrs4s/go-cqhttp/releases/latest": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2023-05-21 01:37:31] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-05-21 01:37:45] [WARNING]: 检查更新失败: Get "https://api.github.com/repos/Mrs4s/go-cqhttp/releases/latest": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2023-05-21 01:40:17] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-05-21 01:40:29] [WARNING]: 检查更新失败: Get "https://api.github.com/repos/Mrs4s/go-cqhttp/releases/latest": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2023-05-21 01:42:23] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-05-21 01:42:35] [WARNING]: 检查更新失败: Get "https://api.github.com/repos/Mrs4s/go-cqhttp/releases/latest": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2023-05-21 01:43:05] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-05-21 01:49:54] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-05-21 01:50:11] [WARNING]: 检查更新失败: Get "https://api.github.com/repos/Mrs4s/go-cqhttp/releases/latest": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2023-05-21 02:32:25] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-05-21 02:32:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:14123/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:14123: connectex: No connection could be made because the target machine actively refused it. 
+[2023-05-21 02:32:36] [WARNING]: 检查更新失败: Get "https://api.github.com/repos/Mrs4s/go-cqhttp/releases/latest": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2023-05-21 02:32:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:14123/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:14123: connectex: No connection could be made because the target machine actively refused it. 
+[2023-05-21 02:32:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:14123/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:14123: connectex: No connection could be made because the target machine actively refused it. 
+[2023-05-21 02:32:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:14123/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:14123: connectex: No connection could be made because the target machine actively refused it. 
+[2023-05-21 02:32:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:14123/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:14123: connectex: No connection could be made because the target machine actively refused it. 
+[2023-05-21 02:32:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:14123/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:14123: connectex: No connection could be made because the target machine actively refused it. 
+[2023-05-21 02:33:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:14123/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:14123: connectex: No connection could be made because the target machine actively refused it. 
+[2023-05-21 02:33:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:14123/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:14123: connectex: No connection could be made because the target machine actively refused it. 
+[2023-05-21 02:33:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:14123/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:14123: connectex: No connection could be made because the target machine actively refused it. 
+[2023-05-21 02:33:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:14123/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:14123: connectex: No connection could be made because the target machine actively refused it. 
+[2023-05-21 23:32:35] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 1213486160 
+[2023-05-21 23:32:35] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 791752240 
+[2023-05-21 23:32:35] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 540225586 
+[2023-05-21 23:32:35] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 541945718 
+[2023-05-21 23:32:57] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 114.221.148.59:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2023-05-21 23:32:57] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 114.221.148.59:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2023-05-21 23:32:57] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 114.221.148.59:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2023-05-21 23:32:57] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 114.221.148.59:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2023-05-21 23:33:05] [WARNING]: 恢复会话失败: Packet timed out , 尝试使用正常流程登录. 
+[2023-05-21 23:33:34] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 1213486160 
+[2023-05-21 23:33:34] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 791752240 
+[2023-05-21 23:33:34] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 540225586 
+[2023-05-21 23:33:34] [ERROR]: Protocol -> parse incoming packet error: invalid packet length 541945718 
+[2023-05-21 23:33:55] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 114.221.148.59:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2023-05-21 23:33:55] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 114.221.148.59:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2023-05-21 23:33:55] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 114.221.148.59:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2023-05-21 23:33:55] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 114.221.148.59:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2023-05-21 23:34:04] [FATAL]: 登录时发生致命错误: fetch qrcode error: Packet timed out 
+[2023-05-21 23:35:39] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-05-21 23:37:41] [FATAL]: 二维码过期 
+[2023-05-21 23:37:44] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-05-21 23:39:46] [FATAL]: 二维码过期 
+[2023-05-21 23:39:50] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-05-21 23:41:25] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-05-21 23:41:35] [WARNING]: 检查更新失败: Get "https://api.github.com/repos/Mrs4s/go-cqhttp/releases/latest": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 

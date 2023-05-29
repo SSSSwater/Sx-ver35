@@ -1,0 +1,39 @@
+{
+    "product": "Xperia acro S",
+    "device": "LT26w",
+    "board": "LT26w",
+    "brand": "Sony",
+    "model": "LT26w",
+    "wifi_ssid": "TP-LINK_U8Z5F5",
+    "android_id": "PQ3A.190705.001",
+    "boot_id": "abecfd2f-59f4-e7f5-3a90-677c8dbdffff",
+    "proc_version": "Linux version 4.17.82-zFMfFltR (android-build@4e7f53a90677.source.android.com)",
+    "mac_address": "AB:EC:FD:2F:59:F4",
+    "ip_address": [
+        188,
+        166,
+        135,
+        20
+    ],
+    "imei": "586791724237218",
+    "incremental": "3387968126",
+    "protocol": 2,
+    "display": "PQ3A.190705.001",
+    "finger_print": "Sony/Xperia acro S/LT26w:10/PQ3A.190705.001/3387968126:user/release-keys",
+    "baseband": "",
+    "sim": "T-Mobile",
+    "sim_info": "T-Mobile",
+    "os_type": "android",
+    "bootloader": "U-boot",
+    "wifi_bssid": "AB:EC:FD:2F:59:F4",
+    "apn": "wifi",
+    "version": {
+        "incremental": "3387968126",
+        "release": "10",
+        "codename": "REL",
+        "sdk": 29
+    },
+    "imsi_md5": "e723bddc7f8285a49f589005f7100490",
+    "vendor_name": "Sony",
+    "vendor_os_name": "android"
+}
